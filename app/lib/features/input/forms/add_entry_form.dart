@@ -166,11 +166,10 @@ class AddEntryFormState extends FormStateBase<CombinedEntry, AddEntryForm>
     }
     final recordFormValue = _bpForm.currentState?.save();
     if (recordFormValue != null) {
-      final unit = context.read<Settings>().preferredPressureUnit;
       record = BloodPressureRecord(
         time: time,
-        sys: recordFormValue.sys == null ? null : unit.wrap(recordFormValue.sys!),
-        dia: recordFormValue.dia == null ? null : unit.wrap(recordFormValue.dia!),
+        sys: recordFormValue.sys,
+        dia: recordFormValue.dia,
         pul: recordFormValue.pul,
       );
     }
@@ -227,8 +226,8 @@ class AddEntryFormState extends FormStateBase<CombinedEntry, AddEntryForm>
       }
       if (value.record != null) {
         _bpForm.currentState?.fillForm((
-          sys: value.record?.sys?.mmHg,
-          dia: value.record?.dia?.mmHg,
+          sys: value.record?.sys,
+          dia: value.record?.dia,
           pul: value.record?.pul,
         ));
       }
@@ -297,8 +296,8 @@ class AddEntryFormState extends FormStateBase<CombinedEntry, AddEntryForm>
             (Icon(Icons.monitor_heart_outlined), BloodPressureForm(
               key: _bpForm,
               initialValue: (
-                sys: widget.initialValue?.record?.sys?.mmHg,
-                dia: widget.initialValue?.record?.dia?.mmHg,
+                sys: widget.initialValue?.record?.sys,
+                dia: widget.initialValue?.record?.dia,
                 pul: widget.initialValue?.record?.pul,
               ),
             )),

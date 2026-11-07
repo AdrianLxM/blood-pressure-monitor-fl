@@ -39,7 +39,7 @@
   "addNote": "Jegyzet (opcionális)",
   "settings": "Beállítások",
   "title": "Vérnyomás alkalmazás",
-  "errLt30": "Érték <= 30? Kapcsolja ki az ellenőrzést a beállításokban!",
+  "errLt30": "Túl alacsony érték? Kapcsolja ki az ellenőrzést a beállításokban!",
   "errUnrealistic": "Nem valóságos érték? Kapcsolja ki az ellenőrzést a beállításokban!",
   "errDiaGtSys": "dia > sys? Kapcsolja ki az ellenőrzést a beállításokban!",
   "btnSave": "MENTÉS",

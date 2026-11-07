@@ -30,7 +30,7 @@
   "errNoData": "ingen data",
   "title": "Blodtrycksapp",
   "errNaN": "Vänligen skriv in ett tal",
-  "errLt30": "Nummer <= 30? Stäng av validering i inställningarna!",
+  "errLt30": "För lågt värde? Stäng av validering i inställningarna!",
   "errDiaGtSys": "dia >= sys? Stäng av validering i inställningarna!",
   "errNoFileOpened": "ingen fil öppnades",
   "errNoValue": "Vänligen skriv ett värde",

@@ -72,7 +72,7 @@
   "enterTimeFormatString": "Formato da hora",
   "allowMissingValues": "Permitir valores em falta",
   "edit": "Editar",
-  "errLt30": "Número <= 30? Desligue a validação nas configurações!",
+  "errLt30": "Valor muito baixo? Desligue a validação nas configurações!",
   "diaShort": "dias",
   "export": "EXPORTAR",
   "theme": "Tema",

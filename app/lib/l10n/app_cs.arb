@@ -52,7 +52,7 @@
   "addExportformat": "Přidat exportní formát",
   "title": "Aplikace Krevní tlak",
   "loading": "načítání…",
-  "errLt30": "Číslo <= 30? Vypněte ověřování v nastavení!",
+  "errLt30": "Příliš nízká hodnota? Vypněte ověřování v nastavení!",
   "errDiaGtSys": "dia >= sys? Vypněte ověřování v nastavení!",
   "errCantOpenURL": "Nelze otevřít URL: {url}",
   "@errCantOpenURL": {

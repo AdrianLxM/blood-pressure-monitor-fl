@@ -18,7 +18,7 @@
     }
   },
   "errNaN": "Please enter a number",
-  "errLt30": "Number <= 30? Turn off validation in settings!",
+  "errLt30": "Value too low? Turn off validation in settings!",
   "errUnrealistic": "Unrealistic value? Turn off validation in settings!",
   "errDiaGtSys": "dia >= sys? Turn off validation in settings!",
   "errCantOpenURL": "Can''t open URL: {url}",

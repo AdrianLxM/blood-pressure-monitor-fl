@@ -63,7 +63,7 @@
     }
   },
   "loading": "laster inn …",
-  "errLt30": "Nummer <=30? Skru av bekreftelse i innstillingene!",
+  "errLt30": "For lav verdi? Skru av bekreftelse i innstillingene!",
   "errCantOpenURL": "Kan ikke åpne nettadresse: {url}",
   "@errCantOpenURL": {
     "placeholders": {

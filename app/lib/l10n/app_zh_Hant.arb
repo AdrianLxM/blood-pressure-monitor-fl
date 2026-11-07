@@ -60,7 +60,7 @@
   "exportImport": "匯出 / 匯入",
   "enterTimeFormatString": "時間格式",
   "allowMissingValues": "允許遺失的數值",
-  "errLt30": "數字 <= 30? 請在設定中關閉輸入驗證！",
+  "errLt30": "數值過低？請在設定中關閉輸入驗證！",
   "diaShort": "舒張壓",
   "export": "匯出",
   "theme": "主題",

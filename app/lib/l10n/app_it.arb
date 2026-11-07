@@ -4,7 +4,7 @@
   "errNotEnoughDataToGraph": "Non ci sono dati sufficienti per tracciare un grafico.",
   "errNoData": "Nessun dato",
   "errCantReadFile": "Il contenuto del file non può essere letto",
-  "errLt30": "<= 30? Disattiva convalida nelle impostazioni!",
+  "errLt30": "Valore troppo basso? Disattiva convalida nelle impostazioni!",
   "errUnrealistic": "Non realistico? Disattiva convalida nelle impostazioni!",
   "errDiaGtSys": "PAD >= PAS? Disattiva convalida nelle impostazioni!",
   "exportPdfExportStatistics": "Statistiche",

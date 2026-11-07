@@ -17,7 +17,7 @@
     }
   },
   "loading": "laadime…",
-  "errLt30": "Number on väiksem või võrdne kui 30? Vajadusel saad seadistustest valideerimise välja lülitada!",
+  "errLt30": "Väärtus on liiga madal? Vajadusel saad seadistustest valideerimise välja lülitada!",
   "errUnrealistic": "Ebaloogiline number? Vajadusel saad seadistustest valideerimise välja lülitada!",
   "errDiaGtSys": "Diastoolne vererõhk on süstoolsest suurem või sellega võrdne? Vajadusel saad seadistustest valideerimise välja lülitada!",
   "errNoFileOpened": "ühtegi faili pole avatud",

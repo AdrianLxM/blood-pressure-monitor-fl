@@ -18,7 +18,7 @@
     }
   },
   "errNaN": "Podaj numer",
-  "errLt30": "Wartość <=30? Wyłącz walidację w ustawieniach!",
+  "errLt30": "Zbyt niska wartość? Wyłącz walidację w ustawieniach!",
   "errUnrealistic": "Nierealistyczna wartość? Wyłącz walidację w ustawieniach!",
   "errDiaGtSys": "dia >= sys? Wyłącz walidację w ustawieniach!",
   "errCantOpenURL": "Nie można otworzyć adresu URL:{url}",

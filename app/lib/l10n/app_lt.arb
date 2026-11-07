@@ -18,7 +18,7 @@
     }
   },
   "errNaN": "Įveskite skaičių",
-  "errLt30": "Skaičius <= 30? Išjunkite patvirtinimą nustatymuose!",
+  "errLt30": "Per maža reikšmė? Išjunkite patvirtinimą nustatymuose!",
   "errUnrealistic": "Nerealistiška vertė? Išjunkite patvirtinimą nustatymuose!",
   "errDiaGtSys": "dia >= sys? Išjunkite patvirtinimą nustatymuose!",
   "errCantOpenURL": "Negalima atidaryti URL: {url}",

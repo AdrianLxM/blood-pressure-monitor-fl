@@ -54,7 +54,7 @@
     }
   },
   "errNaN": "Veuillez entrer un nombre",
-  "errLt30": "Nombre <= 30 ? Désactivez la validation dans les paramètres !",
+  "errLt30": "Valeur trop basse ? Désactivez la validation dans les paramètres !",
   "errUnrealistic": "Valeur irréaliste ? Désactivez la validation dans les paramètres !",
   "errDiaGtSys": "dia >= sys ? Désactivez la validation dans les paramètres !",
   "errCantOpenURL": "Impossible d''ouvrir l''adresse {url}",

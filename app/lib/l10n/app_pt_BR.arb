@@ -73,7 +73,7 @@
   "allowMissingValues": "Permitir valores faltando",
   "edit": "Editar",
   "needlePinBarWidthDesc": "A largura das linhas que as entradas coloridas fazem no gráfico.",
-  "errLt30": "Número <= 30? Desative a validação nas configurações!",
+  "errLt30": "Valor muito baixo? Desative a validação nas configurações!",
   "diaShort": "dia",
   "export": "EXPORTAR",
   "theme": "Tema",

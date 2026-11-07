@@ -18,7 +18,7 @@
       }
     }
   },
-  "errLt30": "¿Número <= 30? ¡Desactive la validación en los ajustes!",
+  "errLt30": "¿Valor demasiado bajo? ¡Desactive la validación en los ajustes!",
   "errCantOpenURL": "No se puede abrir la URL: {url}",
   "@errCantOpenURL": {
     "placeholders": {

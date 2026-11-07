@@ -36,7 +36,7 @@
     }
   },
   "errNaN": "Prosim, vnesite vrednost",
-  "errLt30": "Vrednost je manj kot 30? V nastavitvah izključite preverjanje!",
+  "errLt30": "Vrednost je prenizka? V nastavitvah izključite preverjanje!",
   "errUnrealistic": "Nerealna vrednost? V nastavitvah izključite preverjanje!",
   "errDiaGtSys": "Diastolični pritisk je večji ali enak kot sistolični? V nastavitvah izključite preverjanje!",
   "errCantOpenURL": "Ne morem odpreti URL-ja: {url}",

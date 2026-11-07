@@ -18,7 +18,7 @@
     }
   },
   "errNaN": "Voer een nummer in",
-  "errLt30": "Nummer <= 30? Zet validatie uit in instellingen!",
+  "errLt30": "Waarde te laag? Zet validatie uit in instellingen!",
   "errUnrealistic": "Onrealistische waarde? Zet validatie uit in instellingen!",
   "errDiaGtSys": "dia >= sys? Zet validatie uit in instellingen!",
   "errCantOpenURL": "Kan URL niet openen: {url}",

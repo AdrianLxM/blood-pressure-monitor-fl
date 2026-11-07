@@ -69,7 +69,7 @@
   "enterTimeFormatString": "zaman biçimi",
   "allowMissingValues": "Kayıp değerlere izin ver",
   "edit": "Düzenle",
-  "errLt30": "Numara <= 30? Ayarlardan doğrulamayı kapatın!",
+  "errLt30": "Değer çok mu düşük? Ayarlardan doğrulamayı kapatın!",
   "diaShort": "dia",
   "export": "DIŞA AKTAR",
   "theme": "Tema",
